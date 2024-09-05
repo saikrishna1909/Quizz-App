@@ -1,0 +1,243 @@
+ [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
+        "correct_answer": "Richard Branson",
+        "incorrect_answers": [
+          "Alan Sugar",
+          "Donald Trump",
+          "Bill Gates"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is Cynophobia the fear of?",
+        "correct_answer": "Dogs",
+        "incorrect_answers": [
+          "Birds",
+          "Flying",
+          "Germs"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "The drug cartel run by Pablo Escobar originated in which South American city?",
+        "correct_answer": "Medell&iacute;n",
+        "incorrect_answers": [
+          "Bogot&aacute;",
+          "Quito",
+          "Cali"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which of the following presidents is not on Mount Rushmore?",
+        "correct_answer": "John F. Kennedy",
+        "incorrect_answers": [
+          "Theodore Roosevelt",
+          "Abraham Lincoln",
+          "Thomas Jefferson"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What does VR stand for?",
+        "correct_answer": "Virtual Reality",
+        "incorrect_answers": [
+          "Very Real",
+          "Visual Recognition",
+          "Voice Recognition"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "In past times, what would a gentleman keep in his fob pocket?",
+        "correct_answer": "Watch",
+        "incorrect_answers": [
+          "Money",
+          "Keys",
+          "Notebook"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which American-owned brewery led the country in sales by volume in 2015?",
+        "correct_answer": "D. G. Yuengling and Son, Inc",
+        "incorrect_answers": [
+          "Anheuser Busch",
+          "Boston Beer Company",
+          "Miller Coors"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What airline was the owner of the plane that crashed off the coast of Nova Scotia in 1998?",
+        "correct_answer": "Swiss Air",
+        "incorrect_answers": [
+          "Air France",
+          "British Airways",
+          "TWA"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "On a dartboard, what number is directly opposite No. 1?",
+        "correct_answer": "19",
+        "incorrect_answers": [
+          "20",
+          "12",
+          "15"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the first book of the Old Testament?",
+        "correct_answer": "Genesis",
+        "incorrect_answers": [
+          "Exodus",
+          "Leviticus",
+          "Numbers"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the French word for &quot;hat&quot;?",
+        "correct_answer": "Chapeau",
+        "incorrect_answers": [
+          "Bonnet",
+          " &Eacute;charpe",
+          " Casque"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "In aerodynamics, which force pushes an object upwards?",
+        "correct_answer": "Lift",
+        "incorrect_answers": [
+          "Drag",
+          "Weight",
+          "Thrust"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which country has the union jack in its flag?",
+        "correct_answer": "New Zealand",
+        "incorrect_answers": [
+          "South Africa",
+          "Canada",
+          "Hong Kong"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which sign of the zodiac comes between Virgo and Scorpio?",
+        "correct_answer": "Libra",
+        "incorrect_answers": [
+          "Gemini",
+          "Taurus",
+          "Capricorn"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which one of these is not a typical European sword design?",
+        "correct_answer": "Scimitar",
+        "incorrect_answers": [
+          "Falchion",
+          "Ulfberht",
+          "Flamberge"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the name of NASA&rsquo;s most famous space telescope?",
+        "correct_answer": "Hubble Space Telescope",
+        "incorrect_answers": [
+          "Big Eye",
+          "Death Star",
+          "Millenium Falcon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which restaurant&#039;s mascot is a clown?",
+        "correct_answer": "McDonald&#039;s",
+        "incorrect_answers": [
+          "Whataburger",
+          "Burger King",
+          "Sonic"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What do the letters of the fast food chain KFC stand for?",
+        "correct_answer": "Kentucky Fried Chicken",
+        "incorrect_answers": [
+          "Kentucky Fresh Cheese",
+          "Kibbled Freaky Cow",
+          "Kiwi Food Cut"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "Which best selling toy of 1983 caused hysteria, resulting in riots breaking out in stores?",
+        "correct_answer": "Cabbage Patch Kids",
+        "incorrect_answers": [
+          "Transformers",
+          "Care Bears",
+          "Rubik&rsquo;s Cube"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "When someone is cowardly, they are said to have what color belly?",
+        "correct_answer": "Yellow",
+        "incorrect_answers": [
+          "Green",
+          "Red",
+          "Blue"
+        ]
+      }
+ ]
+
