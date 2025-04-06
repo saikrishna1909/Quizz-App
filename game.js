@@ -82,7 +82,9 @@ getNewQuestion = () =>{
         localStorage.setItem('mostRecentScore',score);
 
         // go to last page
-        return window.location.assign("end.html");
+        // return window.location.assign("end.html");
+        window.location.assign(`${window.location.origin}/end.html`);
+
     }
     questionCounter++;
     // questionCounterText.innerText = questionCounter + "/"+ MAX_QUESTIONS;
