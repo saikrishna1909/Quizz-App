@@ -83,7 +83,9 @@ getNewQuestion = () =>{
 
         // go to last page
         // return window.location.assign("end.html");
-        window.location.assign(`${window.location.origin}/end.html`);
+        // window.location.assign(`${window.location.origin}/end.html`);
+        window.location.assign("quiz-app/end.html");
+
 
     }
     questionCounter++;
