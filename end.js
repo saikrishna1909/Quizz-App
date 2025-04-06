@@ -9,26 +9,28 @@ const highScores = JSON.parse(localStorage.getItem("highScores")) || [];
 
 const MAX_HIGH_SCORES = 5;
 
-
+document.getElementById("playBtn").addEventListener("click", () => {
+    window.location.assign("game.html");
+});
 
 finalScore.innerText = mostRecentScore;
-username.addEventListener('keyup',()=>{
+username.addEventListener('keyup', () => {
     saveScoreBtn.disabled = !username.value;
 });
 
-saveHighScore = (e) =>{
+saveHighScore = (e) => {
     console.log('clicked the save button');
     e.preventDefault();
 
     const score = {
-        score : Math.floor(Math.random()*100),
-        name : username.value
+        score: Math.floor(Math.random() * 100),
+        name: username.value
     };
     // creating an array of scores as highScores array
     highScores.push(score);
     //sorting the highscore array using arrow function
-    highScores.sort((a,b) => {
-         b.score - a.score; 
+    highScores.sort((a, b) => {
+        b.score - a.score;
     })
 
     // splicing the array up to index 5  , 'it indicates that only top 5 scores are presnt in the game'

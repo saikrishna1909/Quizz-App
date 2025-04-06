@@ -23,6 +23,7 @@ let questions = []; // an array of questions to be fected from the "json" file
 // Here "res" and " loadedQuestions" are promises to be made
 
 fetch("https://opentdb.com/api.php?amount=20&category=9&difficulty=easy&type=multiple")
+// fetch("questions.json")
   .then(res =>{
     console.log(res); // printing out the promise
     return res.json();
